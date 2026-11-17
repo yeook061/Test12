@@ -1,0 +1,6 @@
+# 라이트/다크 모두 같은 포인트 컬러 사용 (OS 설정에 따라 자동 전환)
+[theme.light]
+primaryColor = "#FF7A45"
+
+[theme.dark]
+primaryColor = "#FF7A45"
